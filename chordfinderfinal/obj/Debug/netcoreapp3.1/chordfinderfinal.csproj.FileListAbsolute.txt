@@ -1,0 +1,13 @@
+C:\Users\camer\source\repos\chordfinderfinal\chordfinderfinal\bin\Debug\netcoreapp3.1\chordfinderfinal.exe
+C:\Users\camer\source\repos\chordfinderfinal\chordfinderfinal\bin\Debug\netcoreapp3.1\chordfinderfinal.deps.json
+C:\Users\camer\source\repos\chordfinderfinal\chordfinderfinal\bin\Debug\netcoreapp3.1\chordfinderfinal.runtimeconfig.json
+C:\Users\camer\source\repos\chordfinderfinal\chordfinderfinal\bin\Debug\netcoreapp3.1\chordfinderfinal.runtimeconfig.dev.json
+C:\Users\camer\source\repos\chordfinderfinal\chordfinderfinal\bin\Debug\netcoreapp3.1\chordfinderfinal.dll
+C:\Users\camer\source\repos\chordfinderfinal\chordfinderfinal\bin\Debug\netcoreapp3.1\chordfinderfinal.pdb
+C:\Users\camer\source\repos\chordfinderfinal\chordfinderfinal\obj\Debug\netcoreapp3.1\chordfinderfinal.csprojAssemblyReference.cache
+C:\Users\camer\source\repos\chordfinderfinal\chordfinderfinal\obj\Debug\netcoreapp3.1\chordfinderfinal.AssemblyInfoInputs.cache
+C:\Users\camer\source\repos\chordfinderfinal\chordfinderfinal\obj\Debug\netcoreapp3.1\chordfinderfinal.AssemblyInfo.cs
+C:\Users\camer\source\repos\chordfinderfinal\chordfinderfinal\obj\Debug\netcoreapp3.1\chordfinderfinal.csproj.CoreCompileInputs.cache
+C:\Users\camer\source\repos\chordfinderfinal\chordfinderfinal\obj\Debug\netcoreapp3.1\chordfinderfinal.dll
+C:\Users\camer\source\repos\chordfinderfinal\chordfinderfinal\obj\Debug\netcoreapp3.1\chordfinderfinal.pdb
+C:\Users\camer\source\repos\chordfinderfinal\chordfinderfinal\obj\Debug\netcoreapp3.1\chordfinderfinal.genruntimeconfig.cache
